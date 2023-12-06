@@ -20,7 +20,7 @@
 
 ----
 
-**About me**: I am very independent, good at problem solving and I can think outside the box. I am always learning something new because I am very curious.
+**About me**: I am an experienced software engineer who provides solid problem-solving, independence, and innovative thinking.
 
 I focus on developing highly optimized tools and applications. I'm passionate about writing outstanding unit tests. I also have experience on managing small teams and projects. I have experience developing multi-platform applications (Linux, Windows, MacOS) and embedded.
 
@@ -29,54 +29,43 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 ## Skills
 
 ### Programming Languages
-| | |
-| :-- | ------: |
-| Mastered | C, C++ |
-| Advanced | Golang, Python, Bash, Powershell |
-| Intermediate | Matlab/Octave, Java, Assembly |
+| | | |
+| :-- | :--: | ------: |
+| C | **★★★★★** | Great experience in embedded developments |
+| C++ | **★★★★★** | Experience in embedded and endpoint security. |
+| Golang | **★★★★☆** | Experience in endpoint security |
+| Python | **★★★★☆** | Experience in data collection automation and Kubernetes |
+| Bash | **★★★★☆** | Experience in scripting, automation and endpoint security |
+| Powershell | **★★★☆☆** | Experience in endpoint security |
+| Assembly | **★★★☆☆** | Experience in embedded developments |
+| Javascript | **★★☆☆☆** | No professional experience |
+| Java | **★★☆☆☆** | No professional experience |
 
 ### Software Development
-| | |
-| :-- | ------: |
-| Methodologies | Agile |
-| Workflows | GitFlow |
-| Code quality | Best practices knowhow |
-| Tools | Valgrind, GNU debugger, Cppcheck |
-| DVCS | Git |
-| DevOps | Gitlab, **[Github](https://github.com/dabresua)** |
 
-### Embedded Experience
-| | |
-| :-- | ------: |
-| Architectures | 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, embedded Linux |
-| Low-level communications | SPI, UART, I2C |
-| MCU knowhow | IRQs, low-power management, bus clocking, RTC |
-| RF | RFID, NB-IoT, 4G, 3G, 2G, LoRa, 868Mhz/433Mhz p2p radios |
-| Hardware development | Analysis, simulations, Schematics, PCB design |
-| Laboratory | Soldering, multimeter, Oscilloscope, signal debugging |
+* Code quality, best practices, test driven development, debuggers
+* Continuous integration and continuous development, Gitlab pipelines, Github actions
+* Agile Development & Scrum
+
+### Embedded Knowhow
+
+* Architectures: 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, embedded Linux
+* Low-level communications: SPI, UART, I2C
+* MCU foundations: IRQs, low-power management, bus clocking, RTC
+* RF: RFID, NB-IoT, 4G, 3G, 2G, LoRa, 868Mhz/433Mhz p2p radios
+* Hardware design: Analysis, simulations, Schematics, PCB design
+* Laboratory equipment: Soldering, multimeter, Oscilloscope, signal debugging
 
 ### IT Experience
 
-| | |
-| :-- | ------: |
-| Cloud services | AWS |
-| Virtual environments | Vagrant, Virtual Box |
-| Automation | Ansible |
-| Containers | Docker |
-| OS experience | Linux (multiple flavours), Windows, MacOS (basic knowledge) |
-| Cybersecurity | Endpoint security knowhow |
-
-### Other Experience
-
-| | |
-| :-- | ------: |
-| Industrial devices | Aging tests, defective analysis, on-field patches |
-| Manufacturing | Manufacturing instructions, integration, training |
-| Smart grids | DLMS, massive deployment, massive updates |
+* Cloud: AWS
+* Virtualization & containers: Vagrant, Virtual Box, Docker, Kubernetes
+* Automatization: Ansible, Bash, Powershell
+* Multi-OS application: Linux (Debian, Ubuntu, Red Hat, CentOS, Amazon), Windows, MacOS
 
 <div style="page-break-after: always"></div>
 
-## Profesional Experience
+## Professional Experience
 
 ### [**Devo**](https://www.devo.com/)
 
@@ -178,20 +167,13 @@ Technologies = Power electronics
 | Code quality on Python | Toronto University | 2021 | Writing quality code that runs correctly and efficiently |
 | Remote team management | GitLab | 2021 | Learn and apply remote work best practices, build your remote work policy |
 | Gitlab best practices | ZIV | 2021 | How to work efficiently using Gitlab |
-| Cybersecurity at work | ZIV | 2021 | Protect yourself and your company from cyber attacks and social engineering |
 | Doxygen best practices | ZIV | 2021 | Best ways to document C/C++ code using doxygen |
 | Unitary tests and continuous integration | ZIV | 2020 | Implement continuous integration using Jenkins |
 | Static code analysis tools | ZIV | 2020 | Tools for analyzing C/C++ code quality |
 | GNU Autotools | ZIV | 2019 | In-deep GNU Build System (Autotools) workshop for building software under Linux systems |
 | Introduction to PRIME | ZIV | 2019 | Prime protocol basics for communicating using the electricity network |
-| First Aids | Tecnalia | 2019 | Immediate assistance given to any person with either a minor or serious illness or injury |
 | Code style | Tecnalia | 2019 | Best practices to code efficiently in C/C++ |
 | Electrical risks and security | Tecnalia | 2019 | Guidelines to working safe in a environment with electrical risks |
-| Introduction to A.I | Stanford University | 2019 | Introduction to Artificial Intelligence, probabilistic models |
-
-### Languages
-* **Spanish**: Native
-* **English**: Writing and listening C1, speaking B2.
 
 <div style="page-break-after: always"></div>
 
@@ -212,7 +194,11 @@ For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and I�
 
 ## Interests
 
-Music, hiking, running, science, homebrew beer, culture, gastronomy
+Apart from being a software engineer, I am the father of a baby which takes most of my time. When he sleeps I work on home projects.
+
+I like to have an active lifestyle, in winter I'd like to go swimming while in summer hiking is my passion. I looking forward to my baby growing strong to hike with me.
+
+I also like going to live music concerts, enjoying the great gastronomy of nortern Spain, and sometimes I homebrew beer.
 
 ## Other links of Interest
 
@@ -229,11 +215,8 @@ Music, hiking, running, science, homebrew beer, culture, gastronomy
 
 ---
 
-Last modification: 11/03/2023
+Last modification: 06/12/2023
 
-This document is public and is hosted at:
+This document is public and is hosted at: [https://dabresua.github.io/curriculum_vitae](https://dabresua.github.io/curriculum_vitae)
 
-* html responsive: [https://dabresua.github.io/](https://dabresua.github.io/)
-* pdf: [https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf](https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf)
-
-This document has been generated using markdown and pandoc, source code is open and available at [https://github.com/dabresua/dabresua.github.io](https://github.com/dabresua/dabresua.github.io)
+This document has been generated using markdown and pandoc, source code is open and available at [https://github.com/dabresua/curriculum_vitae](https://github.com/dabresua/curriculum_vitae)
