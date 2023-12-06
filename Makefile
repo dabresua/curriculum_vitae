@@ -40,8 +40,7 @@ config :
 
 upload :
 	cp ${PDF_FILE} ${out_pdf}
-	cp ${HTML_FILE} ${out_html}
-	git add ${out_pdf} ${out_html}
+	git add ${out_pdf}
 	git commit -m "Update CV"
 
 sync :
