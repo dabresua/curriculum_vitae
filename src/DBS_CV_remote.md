@@ -6,6 +6,8 @@
 <div align="right">
 ## Contact data
 
+[https://dabresua.github.io/](https://dabresua.github.io/)
+
 [d.breton.suarez@gmail.com](mailto:d.breton.suarez@gmail.com?subject=[Job opportunity])
 
 [https://www.linkedin.com/in/dabresua/](https://www.linkedin.com/in/dabresua/)
@@ -200,22 +202,11 @@ I like to have an active lifestyle, in winter I'd like to go swimming while in s
 
 I also like going to live music concerts, enjoying the great gastronomy of nortern Spain, and sometimes I homebrew beer.
 
-## Other links of Interest
-
-| | |
-| :---- | ----: |
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png" width="200">](https://www.linkedin.com/in/dabresua/) | [https://www.linkedin.com/in/dabresua/](https://www.linkedin.com/in/dabresua/) |
-| [<img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" width="200">](https://dbsportfolio.wordpress.com/) | [https://dbsportfolio.wordpress.com/](https://dbsportfolio.wordpress.com/) |
-| [<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/CodinGame_Logo.svg/512px-CodinGame_Logo.svg.png" width="200">](https://bit.ly/3xL5Evp) | [https://bit.ly/3xL5Evp](https://bit.ly/3xL5Evp) |
-| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="200">](https://github.com/dabresua) | [https://github.com/dabresua](https://github.com/dabresua) |
-| [<img src="https://www.codewars.com/users/dabresua/badges/micro" width="200">](https://www.codewars.com/users/dabresua) | [https://www.codewars.com/users/dabresua](https://www.codewars.com/users/dabresua) |
-| [<img src="https://camo.githubusercontent.com/4563c40252b62c1298c069a6987467a076e157fdb4ad4e629d97ed1bb036a637/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a55475431526839784c7777334a6549445231463052512e706e67" width="200">](https://www.hackerrank.com/d_breton_suarez) | [https://www.hackerrank.com/d_breton_suarez](https://www.hackerrank.com/d_breton_suarez) |
-
 <br>
 
 ---
 
-Last modification: 06/12/2023
+Last modification: 11/01/2024
 
 This document is public and is hosted at: [https://dabresua.github.io/curriculum_vitae](https://dabresua.github.io/curriculum_vitae)
 
