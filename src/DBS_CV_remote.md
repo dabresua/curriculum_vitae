@@ -76,13 +76,16 @@ Position     = Senior software engineer
 Location     = Remote
 Period       = From March 2022
 Sector       = IT -> Cybersecurity
-Description  = Develop and provide engineering support for a multi-platform and multi-purpose
+Description  = Endpoint agent development and support: a multi-platform and multi-purpose
                endpoint monitoring solution based on Osquery to recollect a variety of datasets
-               sitting in their infrastructure, efficiently process them, and create a
+               sitting in their infrastructure, process them, and create a
                comprehensive view that spans multiple applications and use cases in areas such as
                security monitoring, IT health, and performance monitoring or capacity planning.
-               Provide visibility and collaborate with the Osquery open-source project.
-Technologies = C++, Golang, AWS, Vagrant, Ansible, Docker
+               Collector server development and support: a kubernetes based platform for
+               a sollution to allow customers to perform user, domain, secrets,
+               and collector management for a speedy onboarding process as well
+               as additional security and peace of mind.
+Technologies = C++, Golang, AWS, Vagrant, Ansible, Docker, Python, Kubernetes
 ```
 
 ### [**ZIV Automation**](https://www.zivautomation.com/)
