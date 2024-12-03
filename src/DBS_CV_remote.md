@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-![](../img/4.jpeg) Daniel Bretón Suárez
+![](img/4.jpeg) Daniel Bretón Suárez
 ================================
 
 <div align="right">
@@ -34,10 +34,10 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 | | | |
 | :-- | :--: | ------: |
 | C | **★★★★★** | Great experience in embedded developments |
+| Python | **★★★★★** | Experience in data collection automation and Kubernetes |
 | C++ | **★★★★★** | Experience in embedded and endpoint security. |
-| Golang | **★★★★☆** | Experience in endpoint security |
-| Python | **★★★★☆** | Experience in data collection automation and Kubernetes |
 | Bash | **★★★★☆** | Experience in scripting, automation and endpoint security |
+| Golang | **★★★☆☆** | Experience in endpoint security |
 | Powershell | **★★★☆☆** | Experience in endpoint security |
 | Assembly | **★★★☆☆** | Experience in embedded developments |
 | Javascript | **★★☆☆☆** | No professional experience |
@@ -45,9 +45,10 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 
 ### Software Development
 
-* Code quality, best practices, test driven development, debuggers
+* Code quality, best practices, test driven development, debuggers, code reviews
 * Continuous integration and continuous development, Gitlab pipelines, Github actions
-* Agile Development & Scrum
+* Life cycle management, helm charts, argoCD user, vulnerabilities fixing
+* Team best practices: agile, 
 
 ### Embedded Knowhow
 
@@ -58,10 +59,11 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 * Hardware design: Analysis, simulations, Schematics, PCB design
 * Laboratory equipment: Soldering, multimeter, Oscilloscope, signal debugging
 
-### IT Experience
+### IT Expertise
 
-* Cloud: AWS
-* Virtualization & containers: Vagrant, Virtual Box, Docker, Kubernetes
+* Experienced on working with AWS
+* Great experience on Kubernetes applications design (CKAD ongoing)
+* Virtualization & containers: Vagrant, Virtual Box, Docker
 * Automatization: Ansible, Bash, Powershell
 * Multi-OS application: Linux (Debian, Ubuntu, Red Hat, CentOS, Amazon), Windows, MacOS
 
@@ -69,73 +71,124 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 
 ## Professional Experience
 
-### [**Devo**](https://www.devo.com/)
+### [**Devo II**](https://www.devo.com/)
 
-```
-Position     = Senior software engineer
-Location     = Remote
-Period       = From March 2022
-Sector       = IT -> Cybersecurity
-Description  = Endpoint agent development and support: a multi-platform and multi-purpose
-               endpoint monitoring solution based on Osquery to recollect a variety of datasets
-               sitting in their infrastructure, process them, and create a
-               comprehensive view that spans multiple applications and use cases in areas such as
-               security monitoring, IT health, and performance monitoring or capacity planning.
-               Collector server development and support: a kubernetes based platform for
-               a sollution to allow customers to perform user, domain, secrets,
-               and collector management for a speedy onboarding process as well
-               as additional security and peace of mind.
-Technologies = C++, Golang, AWS, Vagrant, Ansible, Docker, Python, Kubernetes
-```
+**Position**: Squad lead / Tech lead
+
+**Location**: Remote
+
+**Period**: From December 2024
+
+**Sector**: IT -> Cybersecurity
+
+**Description**:
+Led the technical design, development, and implementation of advanced cybersecurity solutions, including Kubernetes-based platforms. Served as the primary technical authority, guiding architectural decisions and ensuring best practices in coding, security, and system performance. Collaborated closely with product managers and stakeholders to align technical strategies with business goals. Mentored engineers, conducted code reviews, and facilitated knowledge sharing to foster technical growth within the team. Proactively identified and addressed technical challenges, driving innovation and continuous improvement in system architecture and processes.
+
+**Key Contributions**:
+
+* Architected scalable, resilient solutions for complex cybersecurity needs.
+* Provided technical leadership to ensure high-quality code and adherence to best practices.
+* Streamlined development workflows, improving efficiency and reducing deployment times.
+* Mentored team members, enhancing overall technical expertise and collaboration.
+
+**Technologies**: Kubernetes, Python, AWS, Docker
+
+### [**Devo I**](https://www.devo.com/)
+
+**Position**: Senior software engineer
+
+**Location**: Remote
+
+**Period**: From March 2022 to December 2024
+
+**Sector**: IT -> Cybersecurity
+
+**Description**:
+Endpoint agent development and support: a multi-platform, multi-purpose endpoint monitoring solution based on Osquery. This solution collects diverse datasets across customer infrastructure, enabling comprehensive views for various applications, including security monitoring, IT health assessments, performance monitoring, and capacity planning. Collector server development and support: a Kubernetes-based data collector server platform, empowering users with enhanced management of namespaces, secrets, and data collectors. Providing a scalable, resilient solution aligned with cybersecurity best practices.
+
+**Technologies** = C++, Golang, AWS, Vagrant, Ansible, Docker, Python, Kubernetes
+
+**Key Contributions**:
+
+* Led critical design decisions for high-performance, multi-platform solutions.
+* Optimized data collection processes to ensure reliability and efficiency.
+* Enhanced customer platform usability by implementing intuitive management tools.
+* Ensured robust infrastructure performance and security in AWS environments.
 
 ### [**ZIV Automation**](https://www.zivautomation.com/)
 
-```
-Position     = Embedded software engineer
-Location     = Bilbao Area
-Period       = From September 2018 to March 2022
-Sector       = Industrial -> Smart Grids
-Description  = Develop embedded software for multiple smart grid projects.
-               Develop drivers for ARM 32-bit MCU. Develop tools and scripts.
-               Manage software teams. Implement good practices.
-               Schedule software projects. Design architecture.
-               Technology consultant. International project on Saudi Arabia.
-Technologies = C, C++, Python, Assembly
-```
+**Position**: Embedded Software Engineer
+
+**Location**: Bilbao Area
+
+**Period**: September 2018 – March 2022
+
+**Sector**: Industrial → Smart Grids
+
+
+**Description**:
+Contributed to the development of cutting-edge embedded software solutions for various smart grid projects, enhancing energy efficiency and grid reliability. Designed and implemented drivers for ARM 32-bit microcontrollers, optimizing performance and ensuring seamless integration. Developed tools and scripts to streamline workflows and improve system diagnostics. Managed and mentored software teams, fostering a culture of excellence and implementing industry best practices in embedded systems development. Oversaw project scheduling and architecture design, ensuring timely delivery and robust system performance. Acted as a technology consultant, providing strategic guidance on international projects, including a high-profile deployment in Saudi Arabia.
+
+<div style="page-break-after: always"></div>
+
+**Key Contributions**:
+
+* Led the development of core embedded systems, enhancing smart grid functionality.
+* Implemented best practices, improving code quality and development efficiency.
+* Successfully managed cross-functional teams to meet project deadlines.
+* Provided technical consultancy on large-scale international projects.
+
+**Technologies**: C, C++, Python, Assembly
+
 ### [**Treelogic**](https://www.treelogic.com/en/)
 
-```
-Position     = Hardware and Firmware engineer
-Location     = Central Asturias Area
-Period       = From April 2015 to September 2018
-Sector       = R&D -> IT/Robotics
-Description  = Develop hardware and embedded software for multiple projects.
-               Schedule projects. Design architecture.
-               Technology consultant and forecasting.
-Technologies = C, Assembly, PCB design
-```
+**Position**: Hardware and Firmware Engineer
+
+**Location**: Central Asturias Area
+
+**Period**: April 2015 – September 2018
+
+**Sector**: R&D → IT/Robotics
+
+
+**Description**:
+Designed and developed hardware and embedded software solutions for a variety of innovative R&D projects in the IT and robotics sectors. Led the architectural design of embedded systems, ensuring robust performance and scalability. Managed project scheduling and execution, delivering solutions on time and aligned with technical specifications. Played a key role in integrating hardware and firmware components, enhancing system reliability and functionality.
+
+**Key Contributions**:
+
+* Developed custom hardware and firmware solutions for complex robotics applications.
+* Designed PCB layouts, optimizing circuit performance and reliability.
+* Implemented efficient project schedules, ensuring timely delivery of R&D milestones.
+
+**Technologies**: C, Assembly, PCB Design
 
 ### [**Capgemini**](https://www.capgemini.com/?georedirect_none=true)
 
-```
-Position     = Software engineer
-Location     = Central Asturias Area
-Period       = From October 2014 to April 2015
-Sector       = IT -> Consultancy
-Description  = Develop software for insurance company.
-Technologies = Java, C++
-```
+**Position**: Software engineer
+
+**Location**: Central Asturias Area
+
+**Period**: From October 2014 to April 2015
+
+**Sector**: IT -> Consultancy
+
+**Description**: Develop software for insurance company.
+
+**Technologies**: Java, C++
 
 ### [**Ikerlan**](https://www.ikerlan.es/en/)
 
-```
-Position     = Power electronics researcher
-Location     = Remote
-Period       = From September 2013 to October 2014
-Sector       = Industrial -> R&D
-Description  = Research new technology for DC-DC converters (equalizer).
-Technologies = Power electronics
-```
+**Position**: Power electronics researcher
+
+**Location**: Remote
+
+**Period**: From September 2013 to October 2014
+
+**Sector**: Industrial -> R&D
+
+**Description**: Research new technology for DC-DC converters (equalizer).
+
+**Technologies**: Power electronics
 
 <div style="page-break-after: always"></div>
 
@@ -161,7 +214,6 @@ Technologies = Power electronics
 | CSS tutorial | w3schools | 2023 | CSS stylesheet language |
 | HTML tutorial | w3schools | 2023 | HTML language |
 | Kubernetes for the Absolute Beginners | Mumshad Mannambeth | 2023 | Kubernetes Fundamentals, clusters and applications |
-| Ansible for the Absolute Beginners | Mumshad Mannambeth | 2023 | Ansible Fundamentals, deployments, inventory files |
 | Unit test for Go developers | Vinicius Silva | 2023 | Test driven development in Golang, unit tests and libraries |
 | TDD in C++ | Serban Stoenescu | 2023 | Test Driven Development in C++ with Googletest and Googlemock |
 | The Agile Samurai Bootcamp | Jonathan Rasmusson | 2023 | Setup, execute, and successfully deliver Agile projects |
@@ -176,7 +228,6 @@ Technologies = Power electronics
 | Unitary tests and continuous integration | ZIV | 2020 | Implement continuous integration using Jenkins |
 | Static code analysis tools | ZIV | 2020 | Tools for analyzing C/C++ code quality |
 | GNU Autotools | ZIV | 2019 | In-deep GNU Build System (Autotools) workshop for building software under Linux systems |
-| Introduction to PRIME | ZIV | 2019 | Prime protocol basics for communicating using the electricity network |
 | Code style | Tecnalia | 2019 | Best practices to code efficiently in C/C++ |
 | Electrical risks and security | Tecnalia | 2019 | Guidelines to working safe in a environment with electrical risks |
 
@@ -194,7 +245,7 @@ For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and I�
 | | |
 | ----- | ----- |
 | [**C language certification**](https://www.codingame.com/certification/eSfDFqIQU9tl14dGjPRGAg) | [**C++ language certification**](https://www.codingame.com/certification/1BuYfr1KIcPI7FwwGa0H7g) |
-| ![](../img/1.jpeg){width=75%} | ![](../img/2.jpeg){width=75%} |
+| ![](img/1.jpeg){width=75%} | ![](img/2.jpeg){width=75%} |
 
 
 ## Interests
