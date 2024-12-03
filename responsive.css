@@ -16,6 +16,11 @@ body {
 	}
 }
 
+/* Add page margins */
+@page {
+	margin: 30mm 20mm 30mm 20mm;  /* Top, Right, Bottom, Left */
+}
+
 /* Title of the resume */
 h1 {
 	font-size: 30px;
@@ -57,6 +62,7 @@ dd {
 p {
 	margin-top:0;
 	margin-bottom:1%;
+	page-break-inside: avoid;
 }
 
 /* Blockquotes */
@@ -92,4 +98,8 @@ em {
 table {
 	text-align: left;
 	width:100%;
+}
+
+ul, ol {
+    page-break-inside: avoid;
 }
