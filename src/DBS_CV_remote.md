@@ -260,7 +260,7 @@ I also like going to live music concerts, enjoying the great gastronomy of norte
 
 ---
 
-Last modification: 11/01/2024
+Last modification: 03/12/2024
 
 This document is public and is hosted at: [https://dabresua.github.io/curriculum_vitae](https://dabresua.github.io/curriculum_vitae)
 
