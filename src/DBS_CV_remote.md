@@ -1,16 +1,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-![](img/4.jpeg) Daniel Bretón Suárez
+Daniel Bretón Suárez
 ================================
 
 <div align="right">
 ## Contact data
 
-[https://dabresua.github.io/](https://dabresua.github.io/)
+<table style="width:100%; table-layout:fixed;">
+    <tr>
+        <td align="center"><img src="img/email.png" width="14"> <a href="https://dabresua.github.io/">dabresua.github.io</a></td>
+        <td align="center"><img src="img/link.png" width="14"> <a href="mailto:d.breton.suarez@gmail.com?subject=Job%20opportunity">d.breton.suarez@gmail.com</a></td>
+        <td align="center"><img src="img/work.png" width="14"> <a href="https://www.linkedin.com/in/dabresua/">linkedin.com/in/dabresua</a></td>
+    </tr>
+</table>
 
-[d.breton.suarez@gmail.com](mailto:d.breton.suarez@gmail.com?subject=[Job opportunity])
-
-[https://www.linkedin.com/in/dabresua/](https://www.linkedin.com/in/dabresua/)
 
 </div>
 
@@ -18,13 +21,11 @@
 
 ----
 
->**Software engineer** with experience in IT and embedded.
+>**Cloud‑Native Software Engineer – Kubernetes │ Python │ Go**
 
 ----
 
-**About me**: I am an experienced software engineer who provides solid problem-solving, independence, and innovative thinking.
-
-I focus on developing highly optimized tools and applications. I'm passionate about writing outstanding unit tests. I also have experience on managing small teams and projects. I have experience developing multi-platform applications (Linux, Windows, MacOS) and embedded.
+**About me**: I’m a software engineer with a strong foundation in embedded systems and a current focus on cloud-native architectures. I specialize in designing and operating Kubernetes-based platforms, with hands-on experience in Python, Go, and AWS. I thrive in complex environments, contributing both as a team leader and an independent engineer.
 
 ----
 
@@ -33,24 +34,43 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 ### Programming Languages
 | | | |
 | :-- | :--: | ------: |
-| C | **★★★★★** | Great experience in embedded developments |
-| Python | **★★★★★** | Experience in data collection automation and Kubernetes |
-| C++ | **★★★★★** | Experience in embedded and endpoint security. |
-| Bash | **★★★★☆** | Experience in scripting, automation and endpoint security |
-| Golang | **★★★☆☆** | Experience in endpoint security |
-| Powershell | **★★★☆☆** | Experience in endpoint security |
-| Assembly | **★★★☆☆** | Experience in embedded developments |
-| Javascript | **★★☆☆☆** | No professional experience |
-| Java | **★★☆☆☆** | No professional experience |
+| Python | **★★★★★** | Automation, Kubernetes tooling, scripting, data collection |
+| Golang | **★★★★☆** | Cloud-native backend development, collectors, performance-critical services |
+| Bash | **★★★★☆** | CI/CD automation, system scripting, container lifecycle |
+| C++ | **★★★★★** | Low-level agents, cross-platform security tooling |
+| C | **★★★★★** | Legacy support, embedded systems, performance tuning |
+| Javascript | **★★★☆☆** | Used for browser-based automation and enhancing internal tools |
+| Powershell | **★★★☆☆** | Windows-based automation and endpoint support |
+| Assembly | **★★☆☆☆** | Embedded firmware, optimization at low level |
+| Java | **★★☆☆☆** | Some exposure, not used in production systems |
 
 ### Software Development
 
-* Code quality, best practices, test driven development, debuggers, code reviews
-* Continuous integration and continuous development, Gitlab pipelines, Github actions
-* Life cycle management, helm charts, argoCD user, vulnerabilities fixing
-* Team best practices: agile, 
+* Focus on **code quality**, best practices, TDD, and maintainability
+* Skilled in **debuggin, profiling**, and conducting code reviews
+* Experience with **CI/CD pipelines** using GitLab CI and GitHub Actions
+* Familiar with **Agile methodologies** and collaborative team practices
 
-### Embedded Knowhow
+### Cloud & Infrastructure
+
+* **Kubernetes** (advanced): Application design, namespace management, secrets, Helm, ArgoCD, hybrid GitOps workflows (CKA in progress)
+* **Cloud Platforms**: AWS (IAM, EC2, EKS), cloud security best practices, high availability patterns
+* **Containers & Virtualization**: Docker, Vagrant
+* **Automation & IaC**: Ansible, Bash, PowerShell
+* **CI/CD**: GitLab CI, GitHub Actions - automated build, test, and deployment pipelines
+* **Operating Systems**: Linux (Debian, Ubuntu, Red Hat, Amazon Linux), Windows, macOS
+
+### Cloud-Native Highlights
+
+* Designed and deployed **Kubernetes-based data collection systems** for cybersecurity environments (Devo)
+* Architected **secure, scalable platforms** using Helm, ArgoCD, and GitOps principles
+* Implemented **observability patterns** (metrics, loggin, probes) for production clusters
+* Applied **container security best practices** and namespace isolation policies
+* Developing **CKA-level expertise** through hands-on work and certification prep
+
+<div style="page-break-after: always"></div>
+
+### Embedded Systems Expertise
 
 * Architectures: 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, embedded Linux
 * Low-level communications: SPI, UART, I2C
@@ -59,21 +79,11 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 * Hardware design: Analysis, simulations, Schematics, PCB design
 * Laboratory equipment: Soldering, multimeter, Oscilloscope, signal debugging
 
-### IT Expertise
-
-* Experienced on working with AWS
-* Great experience on Kubernetes applications design (CKAD ongoing)
-* Virtualization & containers: Vagrant, Virtual Box, Docker
-* Automatization: Ansible, Bash, Powershell
-* Multi-OS application: Linux (Debian, Ubuntu, Red Hat, CentOS, Amazon), Windows, MacOS
-
-<div style="page-break-after: always"></div>
-
 ## Professional Experience
 
 ### [**Devo II**](https://www.devo.com/)
 
-**Position**: Squad lead / Tech lead
+**Position**: Senior software engineer and tech lead
 
 **Location**: Remote
 
@@ -82,16 +92,22 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 **Sector**: IT -> Cybersecurity
 
 **Description**:
-Led the technical design, development, and implementation of advanced cybersecurity solutions, including Kubernetes-based platforms. Served as the primary technical authority, guiding architectural decisions and ensuring best practices in coding, security, and system performance. Collaborated closely with product managers and stakeholders to align technical strategies with business goals. Mentored engineers, conducted code reviews, and facilitated knowledge sharing to foster technical growth within the team. Proactively identified and addressed technical challenges, driving innovation and continuous improvement in system architecture and processes.
+Led the design and delivery of advanced cybersecurity solutions built on Kubernetes-based platforms. Acted as the primary technical authority, driving architectural decisions, enforcing best practices, and aligning engineering efforts with product and business objectives. Championed hybrid GitOps workflows and cloud-native patterns to improve system scalability, security, and performance. Mentored engineers, conducted code reviews, and fostered a culture of continuous learning and technical excellence. Proactively tackled architectural and operational challenges, contributing to the evolution of a robust, secure platform.
 
 **Key Contributions**:
 
-* Architected scalable, resilient solutions for complex cybersecurity needs.
-* Provided technical leadership to ensure high-quality code and adherence to best practices.
-* Streamlined development workflows, improving efficiency and reducing deployment times.
-* Mentored team members, enhancing overall technical expertise and collaboration.
+* Designed and implemented **hybrid GitOps workflows** using Helm and ArgoCD, combining Git-based configurations with in-cluster Kubernetes objects.
+* Developed and maintained a **Kubernetes-based collector infrastructure** for secure, scalable data ingestion.
+* Defined and enforced **namespace policies**, **secret management**, and **pod security** standards in production environments.
+* Administered and optimized multiple **EKS clusters** in production environments.
+* Seamlessly migrated multiple clients between clusters with minimal downtime.
+* Developed and maintained **data collector components** running as Kubernetes-native services.
+* Architected **resilient, scalable platforms** tailored for cybersecurity data processing.
+* Provided **technical leadership**, ensuring adherence to clean code, security practices, and platform standards.
+* Streamlined **development and deployment workflows**, reducing cycle times and improving reliability.
+* **Mentored engineers**, fostering technical growth and strong collaboration across the team.
 
-**Technologies**: Kubernetes, Python, AWS, Docker
+**Technologies**: Kubernetes, Python, Go, AWS, Docker, Bash, GitLab CI
 
 ### [**Devo I**](https://www.devo.com/)
 
@@ -115,21 +131,21 @@ Endpoint agent development and support: a multi-platform, multi-purpose endpoint
 * Enhanced customer platform usability by implementing intuitive management tools.
 * Ensured robust infrastructure performance and security in AWS environments.
 
+<div style="page-break-after: always"></div>
+
 ### [**ZIV Automation**](https://www.zivautomation.com/)
 
 **Position**: Embedded Software Engineer
 
 **Location**: Bilbao Area
 
-**Period**: September 2018 – March 2022
+* **Period**: September 2018 - March 2022
 
 **Sector**: Industrial → Smart Grids
 
 
 **Description**:
 Contributed to the development of cutting-edge embedded software solutions for various smart grid projects, enhancing energy efficiency and grid reliability. Designed and implemented drivers for ARM 32-bit microcontrollers, optimizing performance and ensuring seamless integration. Developed tools and scripts to streamline workflows and improve system diagnostics. Managed and mentored software teams, fostering a culture of excellence and implementing industry best practices in embedded systems development. Oversaw project scheduling and architecture design, ensuring timely delivery and robust system performance. Acted as a technology consultant, providing strategic guidance on international projects, including a high-profile deployment in Saudi Arabia.
-
-<div style="page-break-after: always"></div>
 
 **Key Contributions**:
 
@@ -146,7 +162,7 @@ Contributed to the development of cutting-edge embedded software solutions for v
 
 **Location**: Central Asturias Area
 
-**Period**: April 2015 – September 2018
+* **Period**: April 2015 - September 2018
 
 **Sector**: R&D → IT/Robotics
 
@@ -193,6 +209,17 @@ Designed and developed hardware and embedded software solutions for a variety of
 <div style="page-break-after: always"></div>
 
 ## Education
+
+### Certifications & Training in Cloud-Native Tech
+* Kubernetes for the Absolute Beginners - Mumshad Mannambeth (2023)
+* CKA preparation (ongoing) - 2025
+* AWS Essentials - Amazon Web Services (2023)
+* Ansible for Beginners - Mumshad Mannambeth (2022)
+* Unit Test for Go Developers - Vinicius Silva (2023)
+* Go: The Complete Developer's Guide - Stephen Grinder (2022)
+* Code Quality on Python - Toronto University (2021)
+
+
 ### University
 **Master of Science** in **telecommunications engineering** conducted at [Universidad de Oviedo](https://www.uniovi.es/en/inicio). Asturias, Spain.
 
@@ -206,61 +233,41 @@ Designed and developed hardware and embedded software solutions for a variety of
 * Classical physics and quantum theory basics.
 * Basics on economics.
 
-### Post-graduate Education
-| Subject | Company | Year | Description |
-| ------- | ------- | ---- | ----------------- |
-| Bootstrap 5 tutorial | w3schools | 2023 | Bootstrap 5 HTML, CSS, and JavaScript framework |
-| Javascript tutorial | w3schools | 2023 | Javascript programming language |
-| CSS tutorial | w3schools | 2023 | CSS stylesheet language |
-| HTML tutorial | w3schools | 2023 | HTML language |
-| Kubernetes for the Absolute Beginners | Mumshad Mannambeth | 2023 | Kubernetes Fundamentals, clusters and applications |
-| Unit test for Go developers | Vinicius Silva | 2023 | Test driven development in Golang, unit tests and libraries |
-| TDD in C++ | Serban Stoenescu | 2023 | Test Driven Development in C++ with Googletest and Googlemock |
-| The Agile Samurai Bootcamp | Jonathan Rasmusson | 2023 | Setup, execute, and successfully deliver Agile projects |
-| AWS Essentials | Amazon Web Services (AWS) | 2023 | AWS Platform, global infrastructure, security, and the core services |
-| Essential productivity skills | LifeLabs Learning | 2022 | Habits to increase daily productivity |
-| Go: The Complete Developer's Guide | Stephen Grider | 2022 | Master the fundamentals and advanced features of the Go Programming Language (Golang) |
-| Ansible for beginers | Mumshad Mannambeth | 2022 | Ansible to beginner in DevOps. Practice Ansible with coding exercises |
-| Code quality on Python | Toronto University | 2021 | Writing quality code that runs correctly and efficiently |
-| Remote team management | GitLab | 2021 | Learn and apply remote work best practices, build your remote work policy |
-| Gitlab best practices | ZIV | 2021 | How to work efficiently using Gitlab |
-| Doxygen best practices | ZIV | 2021 | Best ways to document C/C++ code using doxygen |
-| Unitary tests and continuous integration | ZIV | 2020 | Implement continuous integration using Jenkins |
-| Static code analysis tools | ZIV | 2020 | Tools for analyzing C/C++ code quality |
-| GNU Autotools | ZIV | 2019 | In-deep GNU Build System (Autotools) workshop for building software under Linux systems |
-| Code style | Tecnalia | 2019 | Best practices to code efficiently in C/C++ |
-| Electrical risks and security | Tecnalia | 2019 | Guidelines to working safe in a environment with electrical risks |
+### Other Post-graduate Education
 
-<div style="page-break-after: always"></div>
+* Bootstrap 5 tutorial - w3schools, 2023
+* JavaScript tutorial - w3schools, 2023
+* CSS tutorial - w3schools, 2023
+* HTML tutorial - w3schools, 2023
+* TDD in C++ - Serban Stoenescu, 2023
+* The Agile Samurai Bootcamp - Jonathan Rasmusson, 2023
+* Essential productivity skills - LifeLabs Learning, 2022
+* Remote team management - GitLab, 2021
+* GitLab best practices - ZIV, 2021
+* Doxygen best practices - ZIV, 2021
+* Unitary tests and continuous integration - ZIV, 2020
+* Static code analysis tools - ZIV, 2020
+* GNU Autotools - ZIV, 2019
+* Code style - Tecnalia, 2019
+* Electrical risks and security - Tecnalia, 2019
 
 ## Awards
-### 2015 Third Prize Paper Award.
 
-The Transportation Systems Committee of the IEEE Industry Applications Society.
+**IEEE Third Prize Paper Award (2015)**  
+Recognized by the IEEE Transportation Systems Committee for co-authoring a paper on battery equalization systems presented at ECCE 2014.
 
-For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and Iñigo Gil, entitled "Equalization system for serially-connected battery cells based on the wave-trap concept" as presented at the 2014 Energy conversion Congress and Exposition, Pittsburgh, PA, USA.
-
-### Codingame
-
-| | |
-| ----- | ----- |
-| [**C language certification**](https://www.codingame.com/certification/eSfDFqIQU9tl14dGjPRGAg) | [**C++ language certification**](https://www.codingame.com/certification/1BuYfr1KIcPI7FwwGa0H7g) |
-| ![](img/1.jpeg){width=75%} | ![](img/2.jpeg){width=75%} |
-
+**Codingame Certifications**  
+- [C Certification](https://www.codingame.com/certification/eSfDFqIQU9tl14dGjPRGAg)  
+- [C++ Certification](https://www.codingame.com/certification/1BuYfr1KIcPI7FwwGa0H7g)
 
 ## Interests
 
-Apart from being a software engineer, I am the father of a baby which takes most of my time. When he sleeps I work on home projects.
+Outside of work, I enjoy hiking, swimming, and homebrewing. I’m also the proud father of a young child—he keeps me grounded and motivated.
 
-I like to have an active lifestyle, in winter I'd like to go swimming while in summer hiking is my passion. I looking forward to my baby growing strong to hike with me.
-
-I also like going to live music concerts, enjoying the great gastronomy of nortern Spain, and sometimes I homebrew beer.
-
-<br>
 
 ---
 
-Last modification: 03/12/2024
+Last modification: 08/07/2025
 
 This document is public and is hosted at: [https://dabresua.github.io/curriculum_vitae](https://dabresua.github.io/curriculum_vitae)
 
