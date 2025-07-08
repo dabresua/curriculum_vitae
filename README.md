@@ -24,8 +24,15 @@ This project provides the source files and resources to generate a professional 
      make
      ```
    - This will convert the Markdown CV to a styled HTML file (`index.html`).
+   - This also will generate the file `DBS_CV_remote.pdv`
 
-3. **Export to PDF:**
-   - Open `index.html` in your browser and print/export as PDF, or use a tool like `wkhtmltopdf`.
+3. **Push changes to the repository:** 
+    - Run:
+     ```sh
+     cp out/DBS_CV_remote.pdf DBS_CV_remote.pdf
+     git add DBS_CV_remote.pdf
+     git commit -m "Updated CV on PDF format"
+     git push
+     ```
 
 For more details, see the comments in the `Makefile` and the documentation for `md2html`.
