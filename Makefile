@@ -26,13 +26,14 @@ all : build
 
 build :
 	mkdir -p ${out_path}
+	cp -r img ${out_path}
 	./${utils_path}/${utils_scr} ${IN_ARGS} ${CSS_ARGS} ${PDF_ARGS} ${HTML_ARGS}
 
 clean :
 	rm -r ${out_path}
 
 init :
-	git submodule add https://github.com/dabresua/md2html.git
+	git submodule add https://github.com/dabresua/md2html.git md2html
 
 config :
 	git submodule update --init
