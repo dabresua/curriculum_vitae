@@ -6,12 +6,12 @@ Daniel Bretón Suárez
 <div align="right">
 ## Contact data
 
-<table style="width:100%; table-layout:fixed;">
-    <tr>
-        <td align="center"><img src="img/email.png" width="14"> <a href="https://dabresua.github.io/">dabresua.github.io</a></td>
-        <td align="center"><img src="img/link.png" width="14"> <a href="mailto:d.breton.suarez@gmail.com?subject=Job%20opportunity">d.breton.suarez@gmail.com</a></td>
-        <td align="center"><img src="img/work.png" width="14"> <a href="https://www.linkedin.com/in/dabresua/">linkedin.com/in/dabresua</a></td>
-    </tr>
+<table style="margin-left:auto; margin-right:auto; width:auto; table-layout:auto; border-collapse:separate; border-spacing:12px 0;">
+  <tr>
+    <td align="left" style="white-space:nowrap;"><img src="img/email.png" width="14"> <a href="https://dabresua.github.io/">dabresua.github.io</a></td>
+    <td align="left" style="white-space:nowrap;"><img src="img/link.png" width="14"> <a href="mailto:d.breton.suarez@gmail.com?subject=Job%20opportunity">d.breton.suarez@gmail.com</a></td>
+    <td align="left" style="white-space:nowrap;"><img src="img/work.png" width="14"> <a href="https://www.linkedin.com/in/dabresua/">linkedin.com/in/dabresua</a></td>
+  </tr>
 </table>
 
 
