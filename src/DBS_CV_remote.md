@@ -25,7 +25,7 @@ Daniel Bretón Suárez
 
 ----
 
-**About me**: I’m a software engineer with a strong foundation in embedded systems and a current focus on cloud-native architectures. I specialize in designing and operating Kubernetes-based platforms, with hands-on experience in Python, Go, and AWS. I thrive in complex environments, contributing both as a team leader and an independent engineer.
+**About me**: I’m a software engineer with a strong foundation in embedded systems and a current focus on cloud-native architectures. I specialize in designing and operating Kubernetes-based platforms, with hands-on experience in Python, Go, and AWS. I thrive in complex environments, contributing both as a technical leader and an independent engineer.
 
 ----
 
@@ -35,7 +35,7 @@ Daniel Bretón Suárez
 | | | |
 | :-- | :--: | ------: |
 | Python | **★★★★★** | Automation, Kubernetes tooling, scripting, data collection |
-| Golang | **★★★★☆** | Cloud-native backend development, collectors, performance-critical services |
+| Golang | **★★★★☆** | Cloud-native backend development, performance-critical services |
 | Bash | **★★★★☆** | CI/CD automation, system scripting, container lifecycle |
 | C++ | **★★★★★** | Low-level agents, cross-platform security tooling |
 | C | **★★★★★** | Legacy support, embedded systems, performance tuning |
@@ -47,7 +47,7 @@ Daniel Bretón Suárez
 ### Software Development
 
 * Focus on **code quality**, best practices, TDD, and maintainability
-* Skilled in **debuggin, profiling**, and conducting code reviews
+* Skilled in **debuggin, troubleshooting**, and conducting code reviews
 * Experience with **CI/CD pipelines** using GitLab CI and GitHub Actions
 * Familiar with **Agile methodologies** and collaborative team practices
 
@@ -58,7 +58,7 @@ Daniel Bretón Suárez
 * **Containers & Virtualization**: Docker, Vagrant
 * **Automation & IaC**: Ansible, Bash, PowerShell
 * **CI/CD**: GitLab CI, GitHub Actions - automated build, test, and deployment pipelines
-* **Operating Systems**: Linux (Debian, Ubuntu, Red Hat, Amazon Linux), Windows, macOS
+* **Operating Systems**: Primarily Linux (server and desktop), with experience on Windows and macOS
 
 ### Cloud-Native Highlights
 
@@ -126,7 +126,7 @@ Endpoint agent development and support: a multi-platform, multi-purpose endpoint
 
 **Key Contributions**:
 
-* Led critical design decisions for high-performance, multi-platform solutions.
+* Drove design decisions for high-performance, multi-platform solutions.
 * Optimized data collection processes to ensure reliability and efficiency.
 * Enhanced customer platform usability by implementing intuitive management tools.
 * Ensured robust infrastructure performance and security in AWS environments.
